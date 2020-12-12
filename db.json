@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": "6",
+      "name": "kkj.",
+      "location": "Brazil"
+    },
+    {
+      "id": "5",
+      "name": "asd",
+      "location": "Brazil"
+    },
+    {
+      "id": "4",
+      "name": "dsadas",
+      "location": "Brasil"
+    }
+  ],
+  "cervejas": [
+    {
+      "id": "1",
+      "nome": "Budweiser",
+      "teor_alcoolico": "5,0",
+      "origem": "Estados Unidos",
+      "ano": "1876"
+    },
+    {
+      "id": "2",
+      "nome": "Stella",
+      "teor_alcoolico": "5,0",
+      "origem": "Belgica",
+      "ano": "1926"
+    },
+    {
+      "id": "3",
+      "nome": "Heineken",
+      "teor_alcoolico": "5,0",
+      "origem": "Amsterdã",
+      "ano": "1864"
+    },
+    {
+      "id": "6",
+      "nome": "213",
+      "teor_alcoolico": "123",
+      "origem": "123",
+      "ano": "123"
+    }
+  ],
+  "barris": [
+    {
+      "id": "1",
+      "marca": "Brahma",
+      "tamanho": "50LT",
+      "teor_alcoolico": "5,0",
+      "validade": "20/12/2020"
+    },
+    {
+      "id": "2",
+      "marca": "Colorado",
+      "tamanho": "30LT",
+      "teor_alcoolico": "5,0",
+      "validade": "18/12/2020"
+    },
+    {
+      "id": "3",
+      "marca": "Stella",
+      "tamanho": "30LT",
+      "teor_alcoolico": "5,0",
+      "validade": "22/12/2020"
+    }
+  ]
+}
